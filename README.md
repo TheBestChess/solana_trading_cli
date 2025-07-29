@@ -206,7 +206,7 @@ By using this software, you acknowledge that you have read, understood, and agre
 ### Discord channel: https://discord.gg/updated-invite-link
 
 ### Telegram: [solana_top_developer](https://t.me/solana_top_developer)
-### Email: [chris.dav.warren@gmail.com](mailto:chris.dav.warren@gmail.com)
+### Email: [jacharyperdue@gmail.com](mailto:jacharyperdue@gmail.com)
 
 ### If you think this will steal your keys, i have no time to convince you to use it.
 
